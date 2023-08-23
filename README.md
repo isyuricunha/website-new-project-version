@@ -1,4 +1,4 @@
-# www.website.yuricunha.xyz
+# www.website.yuricunha.com
 
 Welcome behind the curtain of my personal website/portfolio. Take a look around.
 
